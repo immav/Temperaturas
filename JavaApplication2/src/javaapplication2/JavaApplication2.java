@@ -19,7 +19,7 @@ public class JavaApplication2 {
         Scanner lector = new Scanner(System.in);
         float temperatura;
         
-        System.out.println("Welcome!");
+        System.out.println("Welcome!!!");
         
         System.out.print("Indica la temperatura: ");
         temperatura = lector.nextFloat();
